@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|c:\\users\\asus\\source\\repos\\thresholding\\thresholding\\frmfacedetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\frmfacedetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\vdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\vdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\vdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\vdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|C:\\Users\\ASUS\\source\\repos\\Thresholding\\thresholding\\frmfacedetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF24FAC5-5E5C-4A61-9791-7337F9367C51}|Thresholding\\Thresholding.csproj|solutionrelative:thresholding\\frmfacedetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1597,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmFaceDetection.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\FrmFaceDetection.cs",
+              "RelativeDocumentMoniker": "Thresholding\\FrmFaceDetection.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\FrmFaceDetection.cs",
+              "RelativeToolTip": "Thresholding\\FrmFaceDetection.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowGsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:13:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmFaceDetection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\FrmFaceDetection.cs",
+              "RelativeDocumentMoniker": "Thresholding\\FrmFaceDetection.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\FrmFaceDetection.cs [Design]",
+              "RelativeToolTip": "Thresholding\\FrmFaceDetection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:12:45.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form2.cs",
+              "RelativeDocumentMoniker": "Thresholding\\Form2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form2.cs",
+              "RelativeToolTip": "Thresholding\\Form2.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAiwIQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:09:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form2.cs",
+              "RelativeDocumentMoniker": "Thresholding\\Form2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form2.cs [Design]",
+              "RelativeToolTip": "Thresholding\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:08:35.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Program.cs",
+              "RelativeDocumentMoniker": "Thresholding\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Program.cs",
+              "RelativeToolTip": "Thresholding\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:06:20.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\main.cs",
+              "RelativeDocumentMoniker": "Thresholding\\main.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\main.cs",
+              "RelativeToolTip": "Thresholding\\main.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwBwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:04:27.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\main.cs",
+              "RelativeDocumentMoniker": "Thresholding\\main.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\main.cs [Design]",
+              "RelativeToolTip": "Thresholding\\main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:04:14.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form1.cs",
+              "RelativeDocumentMoniker": "Thresholding\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form1.cs",
+              "RelativeToolTip": "Thresholding\\Form1.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAcwKEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:21:58.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form1.cs",
+              "RelativeDocumentMoniker": "Thresholding\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form1.cs [Design]",
+              "RelativeToolTip": "Thresholding\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:14:36.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VDO.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\VDO.cs",
+              "RelativeDocumentMoniker": "Thresholding\\VDO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\VDO.cs [Design]",
+              "RelativeToolTip": "Thresholding\\VDO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:52:18.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VDO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\VDO.cs",
+              "RelativeDocumentMoniker": "Thresholding\\VDO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\VDO.cs",
+              "RelativeToolTip": "Thresholding\\VDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:19:21.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form3.cs",
+              "RelativeDocumentMoniker": "Thresholding\\Form3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form3.cs [Design]",
+              "RelativeToolTip": "Thresholding\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:04:39.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form3.cs",
+              "RelativeDocumentMoniker": "Thresholding\\Form3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Thresholding\\Thresholding\\Form3.cs",
+              "RelativeToolTip": "Thresholding\\Form3.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwDoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:07:50.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
